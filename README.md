@@ -8,6 +8,8 @@ If your seeing this I just graduated highschool and Im working towards a network
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![Editor](https://img.shields.io/badge/Editor-Vim-019733?style=flat&logo=vim&logoColor=white)
+![Browser](https://img.shields.io/badge/Browser-Floorp-FF4500?style=flat&logo=firefox&logoColor=white)
+
 
 ### 📊 GitHub Stats            🌱 Currently Learning
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />

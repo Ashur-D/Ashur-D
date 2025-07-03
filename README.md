@@ -31,6 +31,5 @@ If your seeing this I just graduated highschool and Im working towards a network
 ![image](https://github.com/user-attachments/assets/fa4ea616-67b1-4781-8cd0-c17b65bd62fc)<br>
 
 
----
 
 <p align="center">Thanks for stopping by! 🙏</p>

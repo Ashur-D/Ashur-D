@@ -11,10 +11,10 @@ If your seeing this I just graduated highschool and Im working towards a network
 ![Browser](https://img.shields.io/badge/Browser-Floorp-FF4500?style=flat&logo=firefox&logoColor=white)
 
 
-### 📊 GitHub Stats            🌱 Currently Learning
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
 
-
+### 🌱 Currently Learning
 - 💻 Windows
 - 🐧 Linux
 - 🌐 Servers and networking fundamentals

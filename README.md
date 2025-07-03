@@ -7,7 +7,7 @@ If your seeing this I just graduated highschool and Im working towards a network
 
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Editor](https://img.shields.io/badge/OS-Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-OhMyPosh-blueviolet)
 ![Customization](https://img.shields.io/badge/Hobby-System%20Customization-purple)
 

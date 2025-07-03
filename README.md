@@ -1,7 +1,7 @@
 # 🦇 Ashur Dawod
 
 
-If your seeing this I just graduated highschool and Im working towards a network engineering degree in the next couple of years. I'm someone who likes learning about how operating systems work especially Windows and more recently Linux. I've mostly been a Windows user but Linux has been fun and is starting to feel better than windows. I enjoy exploring customization tools, improving my workflow, and tweaking the look and speed of my system. Ill be trying to make more project here on github as I learn, I wish to get better at github as its been one of my favourite platofrms recently and I love trying out other peoples projects. I also made a windows guide that features a ton of programs I use on my windows system that I would recommend checking out.
+If your seeing this I just graduated highschool and Im working towards a network engineering degree in the next couple of years. I'm someone who likes learning about how operating systems work especially Windows and more recently Linux. I've mostly been a Windows user but Linux has been fun and is starting to feel better than windows. I enjoy exploring diffrent types of tools, improving my workflow, and tweaking the look and speed of my system, as well as my system being clean,sleek and minmal. Ill be trying to make more project here on github as I learn, I wish to get better at github as its been one of my favourite platofrms recently and I love trying out other peoples projects. I also made a windows guide that features a ton of programs I use on my windows system that I would recommend checking out.
 
 ### 🔧 Tech & Tools I Use
 
@@ -19,54 +19,23 @@ If your seeing this I just graduated highschool and Im working towards a network
   <img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
   <br />
 
----
-
-### 💻 My Customization Setup
-
-<details>
-<summary>🪟 Windows Tools</summary>
-
-- StartAllBack
-- Nilesoft / BreezeShell
-- 7TSP GUI
-- oh-my-posh + Fastfetch
-- ExplorerPatcher / BlurMica
-- folder-icons, cuteBorders, pywal16
-
-</details>
-
-<details>
-<summary>🐧 Linux Tools</summary>
-
-- GlazeWM / Komorebi
-- pywal / HellWal
-- Fastfetch + Starship prompt
-- Custom GTK themes
-- Fish / ZSH shells
-
-</details>
 
 ---
 
-### 🖼️ Current Windows Screenshot
+### 🖼️ Current Windows Setup
 
 ![image](https://github.com/user-attachments/assets/fa4ea616-67b1-4781-8cd0-c17b65bd62fc)<br>
 
 
 ---
 
-### 🛠️ Currently Learning
+### 📖 Currently Learning
 
-- 🧩 Dotfiles & theming in Linux
-- 🐧 Window managers
-- 📁 Git, GitHub basics
-- ✨ UI/UX consistency across platforms
-
----
-
-### 🤝 Let’s Connect
-
-Feel free to star, fork, or explore my projects. I’m still learning but always open to feedback and ideas.
+🪟 Windows<br>
+🐧 Linux<br>
+🌐 Servers and networking fundamentals<br>
+🛠️ System optimization and customization<br>
+🖥️ PC building and hardware setup<br>
 
 ---
 

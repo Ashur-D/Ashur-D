@@ -48,13 +48,10 @@ If your seeing this I just graduated highschool and Im working towards a network
 
 ---
 
-### 🖼️ Screenshots
+### 🖼️ Current Windows Screenshot
 
-<!-- Add your own image paths here -->
-| Windows Setup | Linux Setup |
-|---------------|-------------|
-| ![image](https://github.com/user-attachments/assets/fa4ea616-67b1-4781-8cd0-c17b65bd62fc)<br>
-) | ![linux](./images/linux.png) |
+![image](https://github.com/user-attachments/assets/fa4ea616-67b1-4781-8cd0-c17b65bd62fc)<br>
+
 
 ---
 

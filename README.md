@@ -11,22 +11,18 @@ If your seeing this I just graduated highschool and Im working towards a network
 ![Terminal](https://img.shields.io/badge/Terminal-OhMyPosh-blueviolet)
 ![Customization](https://img.shields.io/badge/Hobby-System%20Customization-purple)
 
----
+### 📊 GitHub Stats            🌱 Currently Learning
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
-  <br />
+- 💻 Windows
+- 🐧 Linux
+- 🌐 Servers and networking fundamentals
+- ⚡ System optimization and customization
+- 🔧 PC building and hardware setup
 
----
-### 📖 Currently Learning
+<br clear="left"/>
 
-🪟 Windows<br>
-🐧 Linux<br>
-🌐 Servers and networking fundamentals<br>
-🛠️ System optimization and customization<br>
-🖥️ PC building and hardware setup<br>
 
 ---
 
@@ -36,26 +32,5 @@ If your seeing this I just graduated highschool and Im working towards a network
 
 
 ---
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 280px;">
-    <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-  </div>
-
-  <div style="flex: 1; min-width: 220px;">
-    <h3>🛠️ Currently Learning</h3>
-    <ul>
-      <li>🪟 Windows and 🐧 Linux systems</li>
-      <li>🌐 Servers and networking fundamentals</li>
-      <li>🛠️ System optimization and customization</li>
-      <li>🖥️ PC building and hardware setup</li>
-    </ul>
-  </div>
-
-</div>
 
 <p align="center">Thanks for stopping by! 🙏</p>

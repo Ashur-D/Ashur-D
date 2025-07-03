@@ -16,10 +16,8 @@ If your seeing this I just graduated highschool and Im working towards a network
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -55,7 +53,8 @@ If your seeing this I just graduated highschool and Im working towards a network
 <!-- Add your own image paths here -->
 | Windows Setup | Linux Setup |
 |---------------|-------------|
-| ![win](./images/windows.png) | ![linux](./images/linux.png) |
+| ![image](https://github.com/user-attachments/assets/fa4ea616-67b1-4781-8cd0-c17b65bd62fc)<br>
+) | ![linux](./images/linux.png) |
 
 ---
 

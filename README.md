@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://github.com/Ashur-D/Windows11-Collection-Guide/blob/main/wallpapers/wallpaperflare.com_wallpaper.jpg?raw=true" width="100%" height="100%"/></a>
+<a href="https://top.gg/bot/623481583411658753"><img src="https://pbs.twimg.com/profile_banners/1435772434267922438/1732494771/1500x500" width="100%" height="auto"/></a>
 <p align="center">
 
 

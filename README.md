@@ -1,3 +1,8 @@
+<a href="https://top.gg/bot/623481583411658753"><img src="https://github.com/Ashur-D/Windows11-Collection-Guide/blob/main/wallpapers/wallpaperflare.com_wallpaper.jpg?raw=true" width="100%" height="auto"/></a>
+<p align="center">
+
+
+
 <div align="center">
 
 # 🦇 Ashur Dawod

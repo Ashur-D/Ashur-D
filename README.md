@@ -17,15 +17,14 @@ recent highschool graduate working towards a network engineering degree in the n
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />
 
+---
+
 ### 🌱 Currently Learning
-- 💻 Windows
-- 🐧 Linux
-- 🌐 Servers and networking fundamentals
-- ⚡ System optimization and customization
-- 🔧 PC building and hardware setup
-
-<br clear="left"/>
-
+💻 Windows <br>
+🐧 Linux <br>
+🌐 Servers and networking fundamentals <br>
+⚡ System optimization and customization <br>
+🔧 PC building and hardware setup <br>
 
 ---
 

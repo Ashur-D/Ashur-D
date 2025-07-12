@@ -15,7 +15,7 @@ recent highschool graduate working towards a network engineering degree in the n
 
 ### 📊 GitHub Stats
 
-<img align="right" width="35%" src="https://s4.anilist.co/file/anilistcdn/character/large/b204808-rbQTsYKvr6nE.png"/> 
+<img align="right" width="33%" src="https://s4.anilist.co/file/anilistcdn/character/large/b204808-rbQTsYKvr6nE.png"/> 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ashur-D&show_icons=true&theme=tokyonight" />

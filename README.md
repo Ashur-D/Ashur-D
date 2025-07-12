@@ -24,13 +24,9 @@ recent highschool graduate working towards a network engineering degree in the n
 ### 🌱 Currently Learning
 
 - 💻 Windows
-
 - 🐧 Linux
-
 - 🌐 Servers and networking fundamentals
-
 - ⚡ System optimization and customization
-
 - 🔧 PC building and hardware setup
 
 

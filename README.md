@@ -7,7 +7,7 @@
 # 🦇 Ashur Dawod
 
 
-I enjoy exploring diffrent types of tools, improving my workflow, and tweaking the look and speed of my system. Ill be trying to make more project here on github as I learn, I wish to get better at github as its been one of my favourite platofrms recently and I love trying out other peoples projects. I also made a windows guide that features a ton of programs I use on windows that I would recommend checking out.
+I enjoy exploring diffrent types of tools, improving my workflow, and tweaking the look and speed of my system. Ill be trying to make more project here on github as I learn, I wish to get better at github as its been one of my favourite platforms recently and I love trying out other peoples projects. I also made a windows guide that features a ton of programs I use on windows that I would recommend checking out.
 
 </div>
 
